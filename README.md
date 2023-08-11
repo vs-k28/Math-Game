@@ -43,7 +43,7 @@ To start the game again, click on the "Start Game" button.
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube](https://youtu.be/2sCmWmOGqMY).
+Click the images above or watch the demo video on [YouTube]().
 
 
 ## Tech Stack
