@@ -3,7 +3,7 @@
 
 #### Description:
 
-This website is a math game that tests your multiplication skills. The game is played in multiple pages. On the first page, you will see a button that says "Math Game". Click on this button to load the game.
+This website is a math game. The game is played in multiple pages. On the first page, you will see a button that says "Math Game". Click on this button to load the game.
 
 The game will then show you a start loader with a countdown from 3 to 0. Once the countdown is finished, you will be taken to the game welcome page.
 
@@ -17,14 +17,6 @@ the game will be over and you will see a game over popup. The popup will show yo
 If you want to quit the game in the middle, click on the "Reset" button. This will stop the timer and reset the game.
 
 To start the game again, click on the "Start Game" button.
-
-#### Features:
-
-- Test your multiplication skills with 1 digit multiplication questions.
-- No negative marking, so you can practice without worrying about losing points.
-- Timer with 60 seconds to answer each question.
-- Progress bar to track time remaining.
-- Ability to reset the game at any time.
 
 #### How to play:
     
@@ -43,7 +35,7 @@ To start the game again, click on the "Start Game" button.
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/Hbsdw13MHSg).
 
 
 ## Tech Stack
