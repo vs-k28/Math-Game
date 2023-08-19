@@ -52,4 +52,5 @@ Watch the demo video on [YouTube](https://youtu.be/Hbsdw13MHSg).
 
 **IDE:** Visual Studio Code
 
+#### Visit Website: https://math-game-kvs.netlify.app/
 
